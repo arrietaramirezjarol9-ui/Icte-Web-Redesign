@@ -51,7 +51,21 @@ git clone https://github.com/arrietaramirezjarol9-ui/Icte-Web-Redesign.git
 
 # ICTE Web Redesign
 
-![Vista previa](images/preview.png)
+## 🏠 Inicio
+
+![Inicio](inicio.png)
+
+---
+
+## 📞 Contacto
+
+![Contacto](contacto.png)
+
+---
+
+## 🖥️ Vista general
+
+![Vista previa](vista%20previa.png)
 
 ## 👨‍💻 Autor
 
