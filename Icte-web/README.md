@@ -70,8 +70,3 @@ Para visualizar y probar el proyecto localmente, sigue estos sencillos pasos:
    * Simplemente haz doble clic en `index.html` para abrirlo en cualquier navegador web.
    * *Recomendado*: Si utilizas **VS Code**, puedes abrir el proyecto y usar la extensión **Live Server** para tener una experiencia de recarga en tiempo real en la dirección `http://localhost:5500`.
 
----
-
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para obtener más detalles.
