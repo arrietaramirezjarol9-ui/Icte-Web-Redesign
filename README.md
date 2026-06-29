@@ -55,12 +55,12 @@ git clone https://github.com/arrietaramirezjarol9-ui/Icte-Web-Redesign.git
 
 ![Inicio](inicio.png)
 
----
+
 ## 🖥️ Vista general
 
 ![Vista previa](preview.png)
 
----
+
 ## 📞 Contacto
 
 ![Contacto](contacto.png)
