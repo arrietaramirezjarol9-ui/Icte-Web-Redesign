@@ -49,6 +49,10 @@ git clone https://github.com/arrietaramirezjarol9-ui/Icte-Web-Redesign.git
 
 3. Ejecuta el archivo `index.html` en tu navegador.
 
+# ICTE Web Redesign
+
+![Vista previa](images/preview.png)
+
 ## 👨‍💻 Autor
 
 **Jermain Arrieta Ramírez**
