@@ -1,0 +1,19 @@
+# IDE / Editor configurations
+.vscode/
+.idea/
+.gemini/
+.agents/
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Scratch / temp files
+scratch/
+task.md
+walkthrough.md
+implementation_plan.md
+*.webp
+*.png

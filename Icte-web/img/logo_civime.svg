@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="100%" height="100%">
+  <!-- Icono / Escudo -->
+  <g transform="translate(10, 10)">
+    <!-- Círculo Exterior Verde Militar -->
+    <circle cx="50" cy="50" r="46" fill="#0a1c12" stroke="#c5a880" stroke-width="3"/>
+    <!-- Círculo Interior Decorativo -->
+    <circle cx="50" cy="50" r="39" fill="none" stroke="#c5a880" stroke-width="1" stroke-dasharray="4,3"/>
+    
+    <!-- Libro Abierto (Símbolo de Educación) -->
+    <path d="M32 55 Q50 63 68 55 V42 Q50 50 32 42 Z" fill="#c5a880"/>
+    <path d="M50 42 L50 59" stroke="#0a1c12" stroke-width="2"/>
+    
+    <!-- Antorcha / Sabiduría -->
+    <path d="M47 38 L53 38 L51 45 L49 45 Z" fill="#c5a880"/>
+    <path d="M46 32 Q50 22 54 32 Q50 28 46 32" fill="#d4af37"/>
+    
+    <!-- Corona de Laureles Simplificada -->
+    <path d="M24 50 C24 66, 35 76, 50 76 C65 76, 76 66, 76 50" fill="none" stroke="#c5a880" stroke-width="2" stroke-linecap="round"/>
+  </g>
+  
+  <!-- Textos con Tipografías del Sistema -->
+  <text x="120" y="52" font-family="'Outfit', sans-serif" font-size="34" font-weight="800" fill="#c5a880" letter-spacing="2">CIVIME</text>
+  <text x="120" y="78" font-family="'Plus Jakarta Sans', sans-serif" font-size="13" font-weight="600" fill="#ffffff" letter-spacing="1.5">CENTRO DE IDIOMAS</text>
+  <text x="120" y="95" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="500" fill="#9ca3af" letter-spacing="1">EJÉRCITO DEL PERÚ</text>
+</svg>
